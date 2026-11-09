@@ -33,8 +33,8 @@ Tools & Technologies
 
 📫 Connect With Me
 
-- 🌐 "Portfolio" (https://jainal-portfolio.vercel.app/)
-- 💼 "LinkedIn" (https://www.linkedin.com/in/julmunir-jainal-74b841322)
+- 🌐 [Portfolio](https://jainal-portfolio.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/julmunir-jainal-74b841322/)
 
 ---
 
