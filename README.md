@@ -1,17 +1,17 @@
 Hi, I'm Julmunir Jainal 👋
 
-Computer Science Student | Full-Stack Developer
+Computer Science Student | Aspiring Software Developer
 
 I'm a Computer Science student who enjoys building things, solving problems, and exploring how technology works.
 
-I build web applications, experiment with different technologies, and learn through hands-on development. I'm particularly interested in creating practical applications and understanding the engineering decisions behind them.
+I learn primarily through hands-on development, experimentation, and figuring out how things work under the hood.
 
-🚀 What I'm Working On
+🚀 Currently
 
-- 🌱 Continuously improving my software development skills.
-- 💻 Building full-stack applications using modern web technologies.
-- 🤖 Exploring AI integration in practical applications.
-- 🔍 Learning through debugging, experimentation, and building real-world projects.
+- Improving my software development skills.
+- Building applications and experimenting with new technologies.
+- Exploring AI integration in software development.
+- Learning through debugging and solving real-world problems.
 
 🛠️ Technologies & Tools
 
@@ -31,21 +31,9 @@ Tools & Technologies
 - Tailwind CSS
 - REST APIs
 
-📌 Featured Projects
-
-Trashure
-A web application exploring AI-powered waste identification and waste management using Gemini AI and Supabase.
-
-IslaLearn
-An educational platform focused on Computer Science learning, featuring authentication, interactive learning features, and real-time communication.
-
-Portfolio
-My personal portfolio showcasing my projects, development journey, and technical work.
-
-📫 Find Me Around the Web
+📫 Connect With Me
 
 - 🌐 "Portfolio" (https://jainal-portfolio.vercel.app/)
-- 💻 "GitHub" (https://github.com/Jainal-5-2)
 - 💼 "LinkedIn" (https://www.linkedin.com/in/julmunir-jainal-74b841322)
 
 ---
